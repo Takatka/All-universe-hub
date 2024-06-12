@@ -1,7 +1,7 @@
 local placeId = game.PlaceId
 
 local scriptUrls = {
-    [15154513235] = "https://raw.githubusercontent.com/omega24119/Final-key-system/main/Final%20key%20system%20kamehameha",  
+    [15154513235] = "https://raw.githubusercontent.com/omega24119/New-key-system-kamehameha/main/New%20key%20System%20obfuscated%20Kamehameha",  
   
 [3101667897] = "https://raw.githubusercontent.com/Takatka/Key/main/Speed%20of%20legend" 
 }
