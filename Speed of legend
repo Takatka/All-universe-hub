@@ -3,7 +3,8 @@ local placeId = game.PlaceId
 local scriptUrls = {
     [15154513235] = "https://raw.githubusercontent.com/omega24119/New-key-system-kamehameha/main/New%20key%20System%20obfuscated%20Kamehameha",  
   
-[3101667897] = "https://raw.githubusercontent.com/Takatka/Key/main/Speed%20of%20legend" 
+[3101667897] = "https://raw.githubusercontent.com/Takatka/Key/main/Speed%20of%20legend",
+[3956818381] = "https://raw.githubusercontent.com/Takatka/Ninja-legends-obfuscated-new-key-system-main/main/Main%20obfuscated%20key%20ninja%20legends"
 }
 
 local function loadScript(url)
